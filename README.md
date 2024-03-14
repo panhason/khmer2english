@@ -1,8 +1,9 @@
-# React + Vite
+Dictionary data from
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- SEAlang Mon-Khmer Languages Project
+  - http://sealang.net/monkhmer/database/
+  - Language: Khmer, Source: Robert Headley1997, 10780 entries
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Wiktionary - through Kaikki digital archive
+  - https://kaikki.org//dictionary/Khmer/index.html
+  - Wiktionary dictionary data is user-contributed, some things might be incorrect
